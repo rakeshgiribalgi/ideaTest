@@ -6,6 +6,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm run dev`
+
+This commond is use for run the application in you system it's only give you nodemon service
+
+### `npm run cverage`
+
+This commond is use for run caverage process to check code test case. it's only give you coverage file create
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
